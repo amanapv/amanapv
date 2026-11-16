@@ -7,7 +7,7 @@ Hi, I'm Amana. I enjoy building intelligent systems that bring together software
 ## Featured Projects
 
 - **[4-DOF Master–Slave Robotic Arm](https://github.com/amanapv/robot_arm_project)** — A robotic arm that mirrors a human-operated controller, combining Arduino-based control with gesture interaction and motion planning.
-- **Level 2 Autonomous Driving Test Bed** — A team-built scaled vehicle project bringing together camera and LiDAR perception, ROS 2, and vehicle control.
+- **[Level 2 Autonomous Driving Test Bed](https://github.com/amanapv/level-2-autonomous-driving-test-bed)** — A team-built scaled vehicle project bringing together camera and LiDAR perception, ROS 2, and vehicle control.
 - **[Computer Vision with OpenCV](https://github.com/amanapv/computer-vision)** — Practical Python examples exploring image processing, edge and line detection, regions of interest, and shape recognition.
 
 ## Technologies
